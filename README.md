@@ -1,6 +1,6 @@
 # Balatro On The Web
 
-Pirated version of Balatro. The index.html file contains all the code, and you can copy and paste the code.
+Pirated version of Balatro. The whereisexe.html file contains all the code, and you can copy and paste the code.
 All credits go to apollo! I requested for a Balatro webport. 
 Original Works:
 
